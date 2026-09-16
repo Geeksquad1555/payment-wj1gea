@@ -1,8 +1,10 @@
 16-Sep-2026
 
-<!-- notify 1/2 · 6xooVyrR -->
-## Notification 1/2
-Round: Round 1
-To: moreta348@yahoo.com, morethanaprofessional@yahoo.com
-At: 2026-09-16 17:54:57
-Id: 6xooVyrR
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: moretnoni@yahoo.com, moretol09@yahoo.com
+At: 2026-09-16 17:55:05
+Id: XEKl2m94
